@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  author: Patrick Boyle
+  description: Installs and secures redis.
+  license: BSD
+dependencies: []
